@@ -1,6 +1,6 @@
 
 ## 🛸 Welcome to my Github
-My name is Josh. I’m a software developer with an ardor for engineering, designing, and building things. Professionally, I love creating and using data-driven digital tools. I like to spend my own time exploring, tinkering, and playing games. I'm stack agnostic and I'm always looking for new projects. 
+My name is Josh. I’m a software engineer with an ardor for engineering, designing, and building things. Professionally, I love creating and using data-driven digital tools. I like to spend my own time exploring, tinkering, and playing games. I'm stack agnostic and I'm always looking for new projects. 
 
 ## 📫 Get in touch:
 * <a href="https://www.linkedin.com/in/jr0zenberg/" target="_blank">Linkedin</a> :briefcase:
